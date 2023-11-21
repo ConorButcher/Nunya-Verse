@@ -937,6 +937,18 @@ hr {
   color: #fff;
 }
 
+.cs-btn.cs-color2 {
+  	color: #fff;
+  	background-color: #000;
+	border-color: #fff;
+}
+
+.cs-btn.cs-color2:hover {
+  background-color: #fff;
+  color: #000;
+	border-color: #000;
+}
+
 .cs-btn_bordered {
   border-color: #06182C;
 }
