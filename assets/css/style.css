@@ -169,7 +169,7 @@ button {
 
 a:hover {
   text-decoration: none;
-  color: #0052FF;
+  color: #2ba6e2;
 }
 
 table {
@@ -750,7 +750,7 @@ hr {
 
 .cs-accent_color,
 .cs-accent_color_hover:hover {
-  color: #0052FF;
+  color: #2ba6e2;
 }
 
 .cs-gradient_color {
@@ -874,7 +874,7 @@ hr {
 
 .cs-accent_bg,
 .cs-accent_bg_hover:hover {
-  background-color: #0052FF;
+  background-color: #2ba6e2;
 }
 
 .cs-primary_bg,
@@ -928,12 +928,12 @@ hr {
 }
 
 .cs-btn.cs-color1 {
-  color: #0052FF;
+  color: #2ba6e2F;
   background-color: rgba(0, 82, 255, 0.2);
 }
 
 .cs-btn.cs-color1:hover {
-  background-color: #0052FF;
+  background-color: #2ba6e2;
   color: #fff;
 }
 
@@ -969,13 +969,13 @@ hr {
   	color: #fff;
   	background-color: #000;
   	border-color: #2ba6e2;
-	box-shadow: 0px 0px 10px 3px #2ba6e2;
+	box-shadow: 0px 0px 10px 3px #2290d6;
 }
 
 .cs-accent_btn:hover {
   	color: #fff;
-	border-color: #47ddff;
-	box-shadow: 0px 0px 10px 3px #47ddff;
+	border-color: #2290d6;
+	box-shadow: 0px 0px 10px 5px #2290d6;
 }
 
 .cs-white_btn {
@@ -1016,8 +1016,8 @@ hr {
 
 .cs-primary_btn:hover {
   color: #fff;
-  background-color: #0052FF;
-  border-color: #0052FF;
+  background-color: #2ba6e2;
+  border-color: #2ba6e2;
 }
 
 .cs-primary_btn:hover::after {
@@ -1141,7 +1141,7 @@ hr {
 }
 
 .cs-form_field:focus {
-  border-color: #0052FF;
+  border-color: #2ba6e2;
 }
 
 .cs-info_title {
@@ -1175,7 +1175,7 @@ hr {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  color: #0052FF;
+  color: #2ba6e2;
   width: 24px;
   margin-right: 20px;
   padding-top: 1px;
@@ -1248,7 +1248,7 @@ hr {
 }
 
 .cs-accordian:not(.active):hover .cs-accordian_toggle {
-  background-color: #0052FF;
+  background-color: #2ba6e2;
 }
 
 .cs-accordian-body {
@@ -1365,7 +1365,7 @@ hr {
 }
 
 .cs-quantity .cs-quantity_btn:hover {
-  color: #0052FF;
+  color: #2ba6e2;
 }
 
 .cs-quantity .cs-quantity_number {
@@ -1423,7 +1423,7 @@ ul.cs-list.cs-style2 li:not(:last-child) {
 }
 
 .page-link:hover {
-  color: #0052FF;
+  color: #2ba6e2;
   background-color: rgba(0, 82, 255, 0.1);
   border-color: rgba(0, 82, 255, 0.1);
 }
@@ -1453,7 +1453,7 @@ ul.cs-list.cs-style2 li:not(:last-child) {
 }
 
 .cs-demo:hover h3 {
-  color: #0052FF;
+  color: #2ba6e2;
 }
 
 .tm_feature_box {
@@ -1466,7 +1466,7 @@ ul.cs-list.cs-style2 li:not(:last-child) {
   width: 75px;
   background: -webkit-gradient(linear, left top, right top, from(rgba(0, 82, 255, 0.3)), color-stop(95.61%, transparent));
   background: linear-gradient(90deg, rgba(0, 82, 255, 0.3) 0%, transparent 95.61%);
-  color: #0052FF;
+  color: #2ba6e2;
   margin: 0 auto 20px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -2563,7 +2563,7 @@ ul.cs-list.cs-style2 li:not(:last-child) {
 
 .cs-site_header.cs-style1 .cs-icon_btn:hover {
   background-color: rgba(0, 82, 255, 0.1);
-  color: #0052FF;
+  color: #2ba6e2;
 }
 
 .cs-site_header.cs-style1 .cs-action_box {
@@ -2767,7 +2767,7 @@ ul.cs-list.cs-style2 li:not(:last-child) {
     background-color: #fff;
     -webkit-box-shadow: 0px 1px 2px 0px rgba(2, 0, 181, 0.1);
             box-shadow: 0px 1px 2px 0px rgba(2, 0, 181, 0.1);
-    border-top: 3px solid #0052FF;
+    border-top: 3px solid #2ba6e2;
     padding: 10px 0;
     z-index: 100;
     opacity: 0;
@@ -3376,7 +3376,7 @@ li.menu-item-has-children
 }
 
 .cs-iconbox.cs-style1.cs-type1 .cs-iconbox_icon {
-  color: #0052FF;
+  color: #2ba6e2;
   padding: 0;
   background: transparent;
 }
@@ -3476,11 +3476,11 @@ li.menu-item-has-children
 }
 
 .cs-card.cs-style3 .cs-card_number {
-  -webkit-text-stroke: 2px #0052FF;
+  -webkit-text-stroke: 2px #2ba6e2;
   color: transparent;
   height: 50px;
   width: 50px;
-  border: 2px dashed #0052FF;
+  border: 2px dashed #2ba6e2;
   margin: auto;
   border-radius: 50%;
   margin-bottom: 25px;
@@ -3774,8 +3774,8 @@ li.menu-item-has-children
 }
 
 .cs-dark .cs-primary_btn:hover {
-  background-color: #0052FF;
-  border-color: #0052FF;
+  background-color: #2ba6e2;
+  border-color: #2ba6e2;
 }
 
 .cs-dark .cs-card.cs-style1 {
@@ -3795,12 +3795,12 @@ li.menu-item-has-children
 
 .cs-dark .cs-accent_color,
 .cs-dark .cs-accent_color_hover:hover {
-  color: #0052FF;
+  color: #2ba6e2;
 }
 
 .cs-dark .cs-accent_bg,
 .cs-dark .cs-accent_bg_hover:hover {
-  background-color: #0052FF;
+  background-color: #2ba6e2;
 }
 
 .cs-dark .cs-site_header.cs-style1.cs-sticky-active {
@@ -3829,7 +3829,7 @@ li.menu-item-has-children
 }
 
 .cs-dark .page-link:hover {
-  color: #0052FF;
+  color: #2ba6e2;
   background-color: rgba(0, 82, 255, 0.1);
   border-color: rgba(0, 82, 255, 0.1);
 }
@@ -3850,7 +3850,7 @@ li.menu-item-has-children
 }
 
 .cs-dark .cs-form_field:focus {
-  border-color: #0052FF;
+  border-color: #2ba6e2;
 }
 
 .cs-dark .cs-iconbox.cs-style1.cs-type1 .cs-iconbox_icon {
