@@ -3765,7 +3765,7 @@ li.menu-item-has-children
 
 .cs-dark .cs-white_bg,
 .cs-dark .cs-nav .cs-nav_list ul {
-  background-color: #283645;
+  background-color: #000;
 }
 
 .cs-dark .cs-primary_btn {
@@ -3859,7 +3859,7 @@ li.menu-item-has-children
 
 @media screen and (max-width: 1199px) {
   .cs-dark .cs-nav .cs-nav_list {
-    background-color: #283645;
+    background-color: #000;
     border-color: rgba(255, 255, 255, 0.1);
   }
 }
