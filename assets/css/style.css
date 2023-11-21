@@ -966,13 +966,16 @@ hr {
 }
 
 .cs-accent_btn {
-  color: #fff;
-  background-color: #0052FF;
-  border-color: #0052FF;
+  	color: #fff;
+  	background-color: #000;
+  	border-color: #2ba6e2;
+	box-shadow: 0px 0px 10px 3px #2ba6e2;
 }
 
 .cs-accent_btn:hover {
-  color: #fff;
+  	color: #fff;
+	border-color: #47ddff;
+	box-shadow: 0px 0px 10px 3px #47ddff;
 }
 
 .cs-white_btn {
