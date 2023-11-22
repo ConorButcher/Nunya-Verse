@@ -3710,12 +3710,46 @@ li.menu-item-has-children
   height: 290px;
 }
 
+.cs-image_box2.cs-style2 {
+  display: block;
+  background: linear-gradient(108.18deg, #EA4C89 -2.02%, #4D44C6 100%);
+  padding: 1px;
+  border-radius: 10px;
+}
+
+.cs-image_box2.cs-style2 img {
+  max-height: 100%;
+}
+
+.cs-image_box2.cs-style2 .cs-image_box_in {
+  border-radius: inherit;
+  padding: 10px;
+}
+
+.cs-image_box2.cs-style2 .cs-image_box_img {
+  background: #E94875;
+  border-radius: inherit;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 290px;
+}
+
 @media screen and (max-width: 575px) {
   .cs-image_box.cs-style1 {
     height: 200px;
     padding: 20px 10px 5px;
   }
   .cs-image_box.cs-style2 .cs-image_box_img {
+    height: 190px;
+  }
+	.cs-image_box2.cs-style2 .cs-image_box_img {
     height: 190px;
   }
 }
