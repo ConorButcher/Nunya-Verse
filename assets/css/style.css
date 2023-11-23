@@ -1279,7 +1279,7 @@ hr {
 }
 
 .cs-footer_wrap {
-  background: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 82, 255, 0.1)), color-stop(95.61%, transparent));
+  	background: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 82, 255, 0.1)), color-stop(95.61%, transparent));
   background: linear-gradient(0deg, rgba(0, 82, 255, 0.1) 0%, transparent 95.61%);
 }
 
