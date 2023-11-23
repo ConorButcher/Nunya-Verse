@@ -744,6 +744,11 @@ hr {
   color: #fff;
 }
 
+.cs-black_color,
+.cs-black_color_hover:hover {
+  color: #000;
+}
+
 .cs-primary_color {
   color: #06182C;
 }
@@ -875,6 +880,11 @@ hr {
 .cs-accent_bg,
 .cs-accent_bg_hover:hover {
   background-color: #2ba6e2;
+}
+
+.cs-accent_bg2,
+.cs-accent_bg2_hover:hover {
+  background-color: #fff;
 }
 
 .cs-primary_bg,
@@ -3788,6 +3798,10 @@ li.menu-item-has-children
   border-color: #fff;
   color: #06182c;
   background-color: #fff;
+}
+
+.cs-dark .cs-form_field_wrap label {
+  background-color: #06182c;
 }
 
 .cs-dark .cs-form_field_wrap label {
