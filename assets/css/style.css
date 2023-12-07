@@ -77,6 +77,18 @@ h6 {
   font-family: 'Poppins', sans-serif;
 }
 
+.error {
+  	background:#06182C;
+  	height:100vh;
+}
+
+.errortit {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
 .cs-primary_font {
   letter-spacing: 0.02em;
 }
